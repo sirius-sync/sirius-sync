@@ -1,21 +1,38 @@
+<br clear="both">
 
-![Header](./banner.jpg)
-<h1 align="center">✦ ๋࣭</h1>
-<h3 align="center">⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆</h3>
+<h2 align="center">✦ ๋࣭</h2>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=sirius-sync&label=Profile%20views&color=0e75b6&style=flat" alt="sirius-sync" /> </p>
+###
 
-<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirius-sync" alt=" sirius-sync" /></a> </p>
+<div align="center">
+  <img height="205" src="https://i.pinimg.com/564x/4a/dd/21/4add213112d92e64e45599858be0e5ea.jpg"  />
+</div>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left"> Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirius-sync&show_icons=true&locale=en&layout=compact" alt="sirius-sync" /></p>
+<h2 align="center">⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆</h2>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sirius-sync&show_icons=true&locale=en" alt=" sirius-sync" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirius-sync&" alt="sirius -sincronizar" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirius-sync&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirius-sync&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
