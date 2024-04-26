@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user =sirius-sync&" alt="sirius-sync" /></p>
 
-![Header](./your-header-banner.png)
+![Header](./banner.png)
