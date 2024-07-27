@@ -20,8 +20,6 @@
 
 <br clear="both">
 
-<h6 align="center">------------------------------------------------</h6>
-
 ###
 
 <div align="center">
