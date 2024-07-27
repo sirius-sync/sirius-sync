@@ -1,25 +1,33 @@
-<br clear="both">
-
-<h2 align="center">✦ ๋࣭▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 4:25</h2>
-
-###
-
 <div align="center">
-  <img height="205" src="https://i.pinimg.com/564x/7c/83/af/7c83af91aa32b3665f023f653c942377.jpg"  />
+  <img height="200" src="https://camo.githubusercontent.com/f826f435f82497a79f2921b4e578504149e9bd75341f53249604c3835de5e9f9/68747470733a2f2f692e70696e696d672e636f6d2f353634782f37632f38332f61662f37633833616639316161333262333636356630323366363533633934323337372e6a7067"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h2 align="center">⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆</h2>
+<h1 align="center">𓆝 𓆟 𓆞 𓆝</h1>
 
 ###
 
-<br clear="both">
+<h5 align="center">ᯓ★</h5>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -27,14 +35,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirius-sync&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirius-sync&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirius-sync&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sirius-sync&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirius-sync&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
